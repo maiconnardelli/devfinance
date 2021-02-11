@@ -1,15 +1,15 @@
 /*############### GOLBAL ###############*/
 :root {
   --dark-blue: #363f5f;
-  --green: #49aa26;
-  --light-green: #3dd705;
+  --green: #9466ff; /*#49aa26;*/
+  --light-green: #8257e6; /* #3dd705;*/
   --red: #e92929;
-  --background_body: #f0f2f5;
-  --background_header: #2d4a22;
+  --background_body: #dddee0;
+  --background_header: #5a2dc5; /* #2d4a22;*/
   --logo: #fff;
   --titles_cards: #fff;
   --white: #fff;
-  --color_income: #12a454;
+  --color_income: #04d361;/* #12a454;*/
   --color_expense: #e92929;
 }
 
@@ -58,7 +58,7 @@ header h1 {
 
 /*############### BALANCE ###############*/
 #balance {
-  margin-top: -8rem;
+  margin-top: -5rem;
 }
 
 #balance h2 {
